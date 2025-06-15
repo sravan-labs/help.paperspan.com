@@ -33,8 +33,6 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 
 ---
 
----
-
 ## Download the Apps
 
 You can access PaperSpan from a variety of platforms. Download the app or extension that suits your reading flow:

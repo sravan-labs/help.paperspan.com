@@ -4,7 +4,7 @@ parent: Organizing
 nav_order: 3
 ---
 
-# 📑 Filter Unread
+# Filter Unread
 
 Quickly view only the articles you haven’t read yet by using the **Unread filter**.
 
@@ -12,6 +12,6 @@ Quickly view only the articles you haven’t read yet by using the **Unread filt
 - Focus only on unread content
 - Hide previously read articles
 
-This filter can usually be toggled at the top of your reading list.
+This filter can be toggled at the top of your reading list.
 
 > ✅ Available on **Android** and **iOS**.

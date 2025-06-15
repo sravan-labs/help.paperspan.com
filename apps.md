@@ -25,8 +25,8 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 | Text to Speech (TTS)              | ✅              | ✅          | Coming Soon |
 | Folders for organization          | ✅              | ✅          | ✅          |
 | Highlights                        | ✅              | ✅          | ✅          |
-| Notes                             | ✅              | ✅          | Coming Soon         |
-| Reading statistics                | ✅              | ✅          | Coming Soon         |
+| Notes                             | ✅              | ✅          | Coming Soon |
+| Reading statistics                | ✅              | ✅          | Coming Soon |
 | Dark mode                         | ✅              | ✅          | —          |
 ---
 

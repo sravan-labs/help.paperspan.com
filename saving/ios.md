@@ -4,7 +4,7 @@ parent: Saving Articles
 nav_order: 2
 ---
 
-#Saving Articles on iOS
+# Saving Articles on iOS
 
 1. In Safari or any browser app, tap the Share icon.
 2. Scroll and tap “PaperSpan”. If first time, tap “More…” to enable it.

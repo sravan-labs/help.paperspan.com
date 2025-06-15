@@ -7,7 +7,7 @@ search_enabled: true
 
 # Site URL
 url: "https://paperspan.github.io/help.paperspan.com"
-logo: /logo.png
+# logo: /logo.png
 
 # Navigation (only include files that exist!)
 nav:

@@ -1,17 +1,32 @@
 ---
 title: Organizing
 nav_order: 6
+has_children: true
 ---
 
-Organize your saved articles to find them easily and focus better on your reading goals.
+# 🗂️ Organizing Your Reading List
 
-## 🗂️ Folders
+PaperSpan offers multiple ways to help you organize your reading list so you can quickly find what you want, when you want it. Whether you prefer smart automation or manual control, there’s a feature for every reading style.
 
-- You can create folders to group articles by topics, goals, or interests.
-- Move articles into folders from the article list or while reading.
-- Folders are synced across all your devices.
+Below you'll find different methods to organize and manage your saved articles:
 
-## ⚙️ Auto-Categories
+- Automatically categorize articles by topic
+- Organize content into your own folders
+- Filter by unread items
+- Sort by date or reading time
+- Search for specific articles
 
-- PaperSpan auto-tags articles using machine learning.
-- You can tap on a category (e.g
+Each method is explained in detail in the sub-pages under this section.
+
+---
+
+## Platform Availability
+
+| Feature         | Android App | iOS App | Web App |
+|----------------|-------------|---------|---------|
+| Auto-Categories| ✅           | ✅       | —       |
+| Folders        | ✅           | ✅       | ✅       |
+| Filter Unread  | ✅           | ✅       | -       |
+| Sort Options   | ✅           | ✅       | -      |
+| Search         | ✅           | ✅       | ✅       |
+

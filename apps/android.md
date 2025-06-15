@@ -1,7 +1,7 @@
 ---
 title: Android App
 parent: Apps
-nav_order: 2
+nav_order: 1
 ---
 
 # 📱 Android App

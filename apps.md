@@ -28,6 +28,7 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 | Notes                             | ✅              | ✅          | Coming Soon |
 | Reading statistics                | ✅              | ✅          | Coming Soon |
 | Dark mode                         | ✅              | ✅          | —          |
+
 ---
 
 ---

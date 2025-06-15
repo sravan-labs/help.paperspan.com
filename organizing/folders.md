@@ -13,4 +13,4 @@ Create your own folders to organize saved articles your way. Folders are perfect
 - Move articles between folders
 - View articles by folder
 
-> 🟢 Available on Android, iOS, and Web App.
+> 🟢 Available on **Android**, **iOS**, and **Web App**.

@@ -20,18 +20,14 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 
 | Feature                           | Android App ✅ | iOS App ✅ | Web App 🌐 |
 |-----------------------------------|----------------|------------|------------|
-| Save from browser Share menu      | ✅              | ✅          | —          |
 | Offline reading                   | ✅              | ✅          | —          |
 | Text to Speech (TTS)              | ✅              | ✅          | Coming Soon |
 | Folders for organization          | ✅              | ✅          | ✅          |
-| Tags                              | ✅              | ✅          | ✅          |
 | Highlights                        | ✅              | ✅          | ✅          |
 | Notes                             | ✅              | ✅          | ✅          |
 | Reading statistics                | ✅              | ✅          | ✅          |
-| Manual link addition              | ✅              | ✅          | ✅          |
 | Dark mode                         | ✅              | ✅          | —          |
 | Cloud sync across devices         | ✅              | ✅          | ✅          |
-| Save via browser extension        | —              | —          | ✅ *(via Chrome/Firefox)* |
 
 ---
 

@@ -4,12 +4,12 @@ parent: Organizing
 nav_order: 4
 ---
 
-# 🔀 Sort Options
+# Sort Options
 
 Reorder your article list to suit your preference. You can sort by:
 
-- **Date Added** (Newest or Oldest first)
-- **Reading Time** (Shortest or Longest first)
+- **Date Added** (Newest or Oldest first. Tap again to reverse)
+- **Reading Time** (Shortest or Longest first. Tap again to reverse)
 
 This helps you prioritize what to read next based on your available time or interest level.
 

@@ -22,7 +22,7 @@ nav:
       - From Android: saving/android.md
       - From iOS: saving/ios.md
       - From Web: saving/web.md
-      - From Chrome/Firefox: saving/browser.md
+      - From Browser Extensions: saving/browser.md
   - Organizing: organizing.md
   - Text to Speech: texttospeech.md
   - Highlights: highlights.md

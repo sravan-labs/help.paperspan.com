@@ -4,13 +4,13 @@ parent: Saving Articles
 nav_order: 3
 ---
 
-# Saving Articles from the Web
+# Saving Articles from the Desktop Website
 
 You can save articles to PaperSpan from any desktop browser using either a **bookmarklet** or the **manual add option**.
 
 ---
 
-## 🔖 Use the Bookmarklet (Drag & Save)
+## Use the Bookmarklet (Drag & Save)
 
 1. Log in to [PaperSpan.com](https://www.paperspan.com/login) on your desktop browser.
 2. From the dashboard, you'll see a **“Read Later” bookmarklet**.
@@ -25,7 +25,7 @@ Now, whenever you're reading an article you want to save:
 
 ---
 
-## ➕ Manually Add a Link
+## Manually Add a Link
 
 You can also add links manually from the desktop website:
 
@@ -37,4 +37,4 @@ You can also add links manually from the desktop website:
 ---
 
 Using a mobile browser? We recommend using the mobile app or browser share menu instead.  
-[Learn how to save from mobile →]([../how-to-save/)](https://help.paperspan.com/saving-articles.html)
+[Learn how to save from mobile →](https://help.paperspan.com/saving-articles.html)

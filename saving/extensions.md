@@ -1,11 +1,11 @@
 ---
-title: From Chrome/Firefox
+title: From Browser Extension
 parent: Saving Articles
 nav_order: 4
 ---
-# Saving Articles with the Chrome Extension
+# Saving Articles with the Chrome or Firefox Extension
 
-Once you've installed the **PaperSpan Chrome extension** and logged in, saving articles is quick and flexible.
+Once you've installed the **PaperSpan Chrome or Firefox extension** and logged in, saving articles is quick and flexible.
 
 ---
 

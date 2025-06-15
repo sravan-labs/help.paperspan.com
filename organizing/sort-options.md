@@ -13,4 +13,4 @@ Reorder your article list to suit your preference. You can sort by:
 
 This helps you prioritize what to read next based on your available time or interest level.
 
-> ✅ Available on Android, iOS.
+> ✅ Available on **Android** and **iOS**.

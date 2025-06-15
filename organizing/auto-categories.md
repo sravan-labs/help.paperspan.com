@@ -10,5 +10,5 @@ PaperSpan automatically categorizes your saved articles into meaningful topics s
 
 Simply open the app and choose a category that fits your moment, whether you're in the mood to learn something new or relax with lighter content.
 
-> 📱 Available on **Android** and **iOS** only.
+> 📱 Available on **Android** and **iOS**.
 

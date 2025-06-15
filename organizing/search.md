@@ -4,7 +4,7 @@ parent: Organizing
 nav_order: 5
 ---
 
-# 🔍 Search
+# Search
 
 Looking for a specific article? Use the **Search** function to find content by:
 

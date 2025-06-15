@@ -37,19 +37,19 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 
 You can access PaperSpan from a variety of platforms. Download the app or extension that suits your reading flow:
 
-- ** Android App**  
+- **Android App**  
   [Get it on Google Play](https://play.google.com/store/apps/details?id=com.paperspan)
 
-- ** iOS App**  
+- **iOS App**  
   [Download on the App Store](https://itunes.apple.com/us/app/paperspan-save-web-for-later/id1167530069)  
 
-- ** Chrome Extension**  
+- **Chrome Extension**  
   [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/paperspan/apbbkgiadnodlonfadecfkpjkfakklnf)  
 
-- ** Firefox Add-on**  
+- **Firefox Add-on**  
   [Get it on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paperspan/)
 
-- ** Web App**  
+- **Web App**  
   Access anytime at [www.paperspan.com](https://www.paperspan.com)
 
 ---

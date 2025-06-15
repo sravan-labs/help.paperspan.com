@@ -4,7 +4,7 @@ parent: Organizing
 nav_order: 2
 ---
 
-# 🗃️ Folders
+# Folders
 
 Create your own folders to organize saved articles your way. Folders are perfect for grouping articles by project, theme, or personal preference.
 

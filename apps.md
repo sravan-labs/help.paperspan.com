@@ -4,7 +4,7 @@ nav_order: 3
 has_children: true
 ---
 
-# 📚 PaperSpan App Overview
+# PaperSpan App Overview
 
 **PaperSpan** is built to enhance your web reading experience — distraction-free, ad-free, and available across multiple platforms.
 

@@ -52,7 +52,5 @@ You can access PaperSpan from a variety of platforms. Download the app or extens
 - **Web App**  
   Access anytime at [www.paperspan.com](https://www.paperspan.com)
 
----
-
 > 🔄 Your reading list and progress sync seamlessly across all platforms.
 

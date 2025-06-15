@@ -18,12 +18,13 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 
 ## Feature Comparison
 
-| Feature                           | Android App ✅ | iOS App ✅ | Web App 🌐 |
+| Feature                           | Android App  | iOS App  | Web App  |
 |-----------------------------------|----------------|------------|------------|
 | Cloud sync across devices         | ✅              | ✅          | ✅         |
 | Offline reading                   | ✅              | ✅          | —          |
 | Text to Speech (TTS)              | ✅              | ✅          | Coming Soon |
-| Folders for organization          | ✅              | ✅          | ✅          |
+| Folders          | ✅              | ✅          | ✅          |
+| Automatic Categorization               | ✅              | ✅          | Coming Soon |
 | Highlights                        | ✅              | ✅          | ✅          |
 | Notes                             | ✅              | ✅          | Coming Soon |
 | Reading statistics                | ✅              | ✅          | Coming Soon |

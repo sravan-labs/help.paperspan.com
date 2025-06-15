@@ -13,9 +13,9 @@ nav:
   - Home: index.md
   - FAQs: faqs.md
   - Apps:
-      - Web App: apps/web.md
       - Android App: apps/android.md
       - iOS App: apps/ios.md
+      - Web App: apps/web.md
       - Chrome Extension: apps/chrome.md
       - Firefox Add-on: apps/firefox.md
   - Saving Articles:

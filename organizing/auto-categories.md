@@ -4,7 +4,7 @@ parent: Organizing
 nav_order: 1
 ---
 
-# 🧠 Auto-Categories
+# Auto-Categories
 
 PaperSpan automatically categorizes your saved articles into meaningful topics such as Health, Science, Lifestyle, and more. This makes it easy to pick what to read based on your current mood or interest — no manual tagging needed.
 

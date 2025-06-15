@@ -10,7 +10,8 @@ Looking for a specific article? Use the **Search** function to find content by:
 
 - Title
 - URL
-- Content snippets (depending on platform)
+- Website
+- Full-text
 
 Search helps you instantly locate anything from your reading history without scrolling.
 

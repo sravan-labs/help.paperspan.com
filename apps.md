@@ -21,13 +21,14 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 | Feature                           | Android App  | iOS App  | Web App  |
 |-----------------------------------|----------------|------------|------------|
 | Cloud sync across devices         | ✅              | ✅          | ✅         |
-| Offline reading                   | ✅              | ✅          | —          |
-| Text to Speech (TTS)              | ✅              | ✅          | Coming Soon |
 | Folders          | ✅              | ✅          | ✅          |
-| Automatic Categorization               | ✅              | ✅          | Coming Soon |
+| Offline reading                   | ✅              | ✅          | —          |
+| Text to Speech (TTS)              | ✅              | ✅          | -          |
+| Text to Speech (TTS) Playlist             | ✅              | ✅          | -          |
+| Automatic Categorization               | ✅              | ✅          | - |
 | Highlights                        | ✅              | ✅          | ✅          |
-| Notes                             | ✅              | ✅          | Coming Soon |
-| Reading statistics                | ✅              | ✅          | Coming Soon |
+| Notes                             | ✅              | ✅          | - |
+| Reading statistics                | ✅              | ✅          | -|
 | Dark mode                         | ✅              | ✅          | —          |
 
 ---

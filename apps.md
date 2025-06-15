@@ -22,14 +22,14 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 |-----------------------------------|----------------|------------|------------|
 | Cloud sync across devices         | ✅              | ✅          | ✅         |
 | Folders          | ✅              | ✅          | ✅          |
-| Offline reading                   | ✅              | ✅          | —          |
+| Offline reading                   | ✅              | ✅          | -         |
 | Text to Speech (TTS)              | ✅              | ✅          | -          |
 | Text to Speech (TTS) Playlist             | ✅              | ✅          | -          |
 | Automatic Categorization               | ✅              | ✅          | -     |
 | Highlights                        | ✅              | ✅          | ✅          |
 | Notes                             | ✅              | ✅          | -     |
 | Reading statistics                | ✅              | ✅          | -    |
-| Dark mode                         | ✅              | ✅          | —          |
+| Dark mode                         | ✅              | ✅          | -         |
 
 ---
 

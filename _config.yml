@@ -21,7 +21,7 @@ nav:
   - Saving Articles:
       - From Android: saving/android.md
       - From iOS: saving/ios.md
-      - From Web: saving/web.md
+      - From Desktop: saving/web.md
       - From Browser Extensions: saving/browser.md
   - Organizing: organizing.md
   - Text to Speech: texttospeech.md

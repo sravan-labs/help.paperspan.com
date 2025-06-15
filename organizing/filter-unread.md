@@ -14,4 +14,4 @@ Quickly view only the articles you haven’t read yet by using the **Unread filt
 
 This filter can usually be toggled at the top of your reading list.
 
-> ✅ Available on Android and iOS.
+> ✅ Available on **Android** and **iOS**.

@@ -27,6 +27,7 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 | Text to Speech (TTS) Playlist             | ✅              | ✅          | -          |
 | Automatic Categorization               | ✅              | ✅          | -     |
 | Highlights                        | ✅              | ✅          | ✅          |
+| Send to Kindle                        | ✅              | ✅          | -          |
 | Notes                             | ✅              | ✅          | -     |
 | Reading statistics                | ✅              | ✅          | -    |
 | Dark mode                         | ✅              | ✅          | -         |

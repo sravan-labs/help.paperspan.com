@@ -24,7 +24,7 @@ Enjoy reading without an internet connection. PaperSpan automatically downloads 
 - Never lose access to saved content
 - Helps you stay focused — no distractions from being online
 
-> 📂 Articles are stored locally and take up minimal space.
+> Articles are stored locally and take up minimal space.
 
 ---
 

@@ -3,21 +3,35 @@ title: Highlights
 nav_order: 8
 ---
 
-Highlight key parts of an article to revisit or reflect later. Here's how highlighting works on each platform.
 
-## 📱 Android
+# ✨ Highlights
 
-- Select text while reading, then tap “Highlight”.
-- View your highlights from the Highlights tab.
-- You can also remove or edit highlights.
+Save the most important parts of what you read by highlighting key text in your saved articles. Whether you're studying, researching, or just want to mark memorable content, highlights help you revisit and reflect on what matters most.
 
-## 🍏 iOS
+> Available on **Android**, **iOS**, and **Web App**
 
-- Tap and drag to select, then choose “Highlight”.
-- All highlights sync across devices.
-- Manage highlights from your article list.
+---
 
-## 💻 Web
+## 📱 How to Highlight on Mobile
 
-- Use your mouse to select text and click the highlighter icon.
-- Hover over highlights to remove or change them.
+1. Open any article in the reading view.
+2. **Long-press** on the text you want to highlight.
+3. Tap the **"Highlight"** option that appears at the top of the screen.
+
+> You can highlight multiple passages within the same article.
+
+---
+
+## Viewing Your Highlights
+
+- On **Android** and **iOS**, you can access all your saved highlights from the **Highlights screen** in the app.
+- On the **Web App**, viewing highlights is **coming soon**.
+
+---
+
+## No Limits
+
+There is **no limit** on the number of highlights you can create.
+
+> Highlights are saved with your account and synced across devices.
+

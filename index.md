@@ -3,7 +3,7 @@ title: Apps
 nav_order: 1
 ---
 
-# PaperSpan App Overview
+# PaperSpan – Features & Apps Overview
 
 **PaperSpan** is built to enhance your web reading experience — distraction-free, ad-free, and available across multiple platforms.
 

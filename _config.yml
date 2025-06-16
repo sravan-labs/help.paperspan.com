@@ -11,12 +11,7 @@ url: "https://paperspan.github.io/help.paperspan.com"
 
 # Navigation (only include files that exist!)
 nav:
-  - Apps:
-      - Android App: apps/android.md
-      - iOS App: apps/ios.md
-      - Web App: apps/web.md
-      - Chrome Extension: apps/chrome.md
-      - Firefox Add-on: apps/firefox.md
+  - Apps: apps.md
   - Saving Articles:
       - From Android: saving/android.md
       - From iOS: saving/ios.md

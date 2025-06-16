@@ -5,7 +5,7 @@ nav_order: 10
 
 # Notes
 
-Add personal notes to your saved articles to capture key insights or thoughts. Notes help you quickly recall the core idea of what you read — perfect for learning, journaling, or research.
+Add personal notes to your saved articles to capture your key insights or thoughts. Notes help you quickly recall the core idea of what you read — perfect for learning, journaling, or research.
 
 > 📱 Available on **Android** and **iOS**
 

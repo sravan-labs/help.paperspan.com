@@ -10,7 +10,7 @@ url: "https://paperspan.github.io/help.paperspan.com"
 
 # Navigation (only include files that exist!)
 nav:
-  - Apps: apps.md
+  - Apps: index.md
   - Saving Articles:
       - From Android: saving/android.md
       - From iOS: saving/ios.md

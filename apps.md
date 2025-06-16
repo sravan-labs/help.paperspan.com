@@ -22,8 +22,8 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 |-----------------------------------|----------------|------------|------------|
 | Cloud sync across devices         | ✅              | ✅          | ✅         |
 | Clean Text View        | ✅              | ✅          | ✅         |
-| Folders          | ✅              | ✅          | ✅          |
 | Offline reading                   | ✅              | ✅          | -         |
+| Folders          | ✅              | ✅          | ✅          |
 | Text to Speech (TTS)              | ✅              | ✅          | -          |
 | Text to Speech (TTS) Playlist             | ✅              | ✅          | -          |
 | Automatic Categorization               | ✅              | ✅          | -     |

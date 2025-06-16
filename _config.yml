@@ -11,8 +11,6 @@ url: "https://paperspan.github.io/help.paperspan.com"
 
 # Navigation (only include files that exist!)
 nav:
-  - Home: index.md
-  - FAQs: faqs.md
   - Apps:
       - Android App: apps/android.md
       - iOS App: apps/ios.md

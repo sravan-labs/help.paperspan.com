@@ -1,6 +1,9 @@
 title: "PaperSpan Help"
 description: "Help Center for PaperSpan"
 remote_theme: pmarsceill/just-the-docs
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
 # Enable search
 search_enabled: true
 footer_content: ""

@@ -1,6 +1,5 @@
 ---
 title: FAQs
-nav_order: 2
 ---
 
 # 🟩 FAQs

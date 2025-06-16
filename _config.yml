@@ -3,7 +3,7 @@ description: "Help Center for PaperSpan"
 remote_theme: pmarsceill/just-the-docs
 # Enable search
 search_enabled: true
-
+footer_content: ""
 # Site URL
 url: "https://paperspan.github.io/help.paperspan.com"
 # logo: /logo.png

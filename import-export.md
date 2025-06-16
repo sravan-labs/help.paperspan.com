@@ -20,7 +20,7 @@ You can import your existing saved articles from:
 
 ---
 
-## 📤 Export from PaperSpan
+## Export from PaperSpan
 
 You can export your saved articles from PaperSpan to an **HTML file** at any time from the web dashboard.
 

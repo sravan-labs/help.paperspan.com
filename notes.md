@@ -3,16 +3,32 @@ title: Notes
 nav_order: 10
 ---
 
-Add your own thoughts or ideas while reading, and revisit them later.
+# Notes
 
-## 📱 Android
+Add personal notes to your saved articles to capture key insights or thoughts. Notes help you quickly recall the core idea of what you read — perfect for learning, journaling, or research.
 
-- Tap the note icon while reading to add a note.
-- Notes are listed under the Notes section in the app.
-- You can edit or delete them anytime.
+> 📱 Available on **Android** and **iOS**
 
-## 🍏 iOS
+---
 
-- Select “Add Note” from the reader toolbar.
-- Notes stay linked to the article.
-- They sync automatically with your account.
+## How to Add a Note
+
+- Open any article in the **Reading View**.
+- Tap the **Note** icon or menu option.
+- Write your note and save it — that's it!
+
+You can add notes while reading or later when reviewing the article.
+
+---
+
+## Viewing Your Notes
+
+Access all your saved notes from the **Notes List** screen in the app. This provides a clean overview of your takeaways across all articles.
+
+---
+
+## No Limits
+
+There is **no limit** to the number of notes you can create. The Notes feature is completely **free** and available to all users.
+
+> Notes are synced with your account and available across devices.

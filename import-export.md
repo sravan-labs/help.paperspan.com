@@ -17,7 +17,7 @@ You can import your existing saved articles from:
 ### Instapaper
 - Export your reading list from Instapaper in **HTML format**
 - Upload the HTML file via the PaperSpan web dashboard
-- 
+
 ---
 
 ## 📤 Export from PaperSpan

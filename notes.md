@@ -14,7 +14,7 @@ Add personal notes to your saved articles to capture your key insights or though
 ## How to Add a Note
 
 - Open any article in the **Reading View**.
-- Tap the **Note** icon or menu option.
+- Tap the **Note** icon on menu option.
 - Write your note and save it — that's it!
 
 You can add notes while reading or later when reviewing the article.

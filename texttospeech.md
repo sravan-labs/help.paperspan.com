@@ -4,7 +4,7 @@ nav_order: 7
 ---
 
 
-# 🔊 Text to Speech (TTS)
+# 🎧 Text to Speech (TTS)
 
 PaperSpan offers powerful **Text to Speech (TTS)** functionality, allowing you to listen to your saved articles — whether you're actively reading or on the go.
 
@@ -29,7 +29,8 @@ You can listen to any saved article by opening it and tapping the **TTS button**
 Want to listen to multiple articles back-to-back? Use the **TTS Playlist** feature:
 
 ### How it works:
-- From the **Reading List**, tap the menu on an article and select **"Add to Playlist."**
+- From the **Reading List**, **long-press** an article to reveal the multi-select menu.
+- Tap **"Add to Playlist"** to add the selected article(s) to your TTS playlist.
 - Go to the **Playlist** screen to view and manage your queued articles.
 - Tap any article to start listening — playback continues automatically through the entire playlist.
 

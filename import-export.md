@@ -9,7 +9,7 @@ You can import your existing saved articles from:
 
 ### Pocket
 - Get your reading list from Pocket as a **CSV file**
-- Upload the CSV from your [PaperSpan web](https://paperspan.com/import) dashboard
+- Upload the CSV from your [PaperSpan web](https://paperspan.com/login) dashboard
 - The system will process and add your articles
 
 >  **Note:** Importing may take up to **15 minutes**, depending on the file size and number of articles.

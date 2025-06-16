@@ -7,7 +7,10 @@ search_enabled: true
 # Site URL
 url: "https://paperspan.github.io/help.paperspan.com"
 # logo: /logo.png
-
+nav_external_links:
+  - title: "↩ Back to PaperSpan.com"
+    url: "https://paperspan.com"
+    open_in_new_tab: true
 # Navigation (only include files that exist!)
 nav:
   - Apps: index.md

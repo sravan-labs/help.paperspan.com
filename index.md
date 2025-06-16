@@ -20,7 +20,7 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 | Feature                           | Android App  | iOS App  | Web App  |
 |-----------------------------------|----------------|------------|------------|
 | Cloud sync across devices         | ✅              | ✅          | ✅         |
-| Clean Text View        | ✅              | ✅          | ✅         |
+| Clean Reading View        | ✅              | ✅          | ✅         |
 | Offline reading                   | ✅              | ✅          | -         |
 | Folders          | ✅              | ✅          | ✅          |
 | Text to Speech (TTS)              | ✅              | ✅          | -          |

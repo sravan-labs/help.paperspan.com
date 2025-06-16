@@ -20,7 +20,7 @@ Before sending articles, follow these two steps:
 
 This authorizes PaperSpan to send articles to your Kindle device.
 
-> 📎 You can manage this in your [Amazon Kindle Approved Personal Document E-mail List](https://www.amazon.com/gp/digital/fiona/manage?&#pdocSettings) settings.
+> 📎 You can manage this in your [Amazon Kindle Approved Personal Document E-mail List](https://www.amazon.in/hz/mycd/preferences/myx#/home/settings/payment) settings.
 
 ---
 

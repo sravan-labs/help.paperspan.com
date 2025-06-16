@@ -3,15 +3,36 @@ title: Offline Reading
 nav_order: 12
 ---
 
-Read your saved articles even without an internet connection.
+# Offline Reading
 
-## 🔁 Auto Download
+Enjoy reading without an internet connection. PaperSpan automatically downloads your saved articles to your mobile device so you can read them anytime, anywhere — even when you're offline.
 
-- By default, new articles are downloaded when you're on Wi-Fi.
-- Available on Android and iOS.
-- You can read them anytime, anywhere.
+> 📱 Available on **Android** and **iOS**
 
-## 📥 Manual Download
+---
 
-- Tap the download icon on any article to save it offline.
-- Useful if you're traveling or have spotty connections.
+## How It Works
+
+- The app **automatically downloads** your articles after you save them.
+- Articles are saved in a **clean, readable format**, ready to be accessed even with no internet.
+- No manual steps are needed — it's all handled in the background.
+
+---
+## Why It’s Useful
+
+- Read during travel, commutes, or areas with poor connectivity
+- Never lose access to saved content
+- Helps you stay focused — no distractions from being online
+
+> 📂 Articles are stored locally and take up minimal space.
+
+---
+
+## Initial Sync Note
+
+If you just logged into the app and have a large reading list, it may take a few minutes for all articles to finish downloading in the background. You can continue using the app while this happens.
+
+---
+
+
+

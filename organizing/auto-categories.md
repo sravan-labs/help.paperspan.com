@@ -6,9 +6,12 @@ nav_order: 1
 
 # Auto-Categories
 
-PaperSpan automatically categorizes your saved articles into meaningful topics such as Health, Science, Lifestyle, and more. This makes it easy to pick what to read based on your current mood or interest — no manual tagging needed.
+PaperSpan automatically assigns categories to your saved articles using intelligent content analysis. These categories help you discover themes like Technology, Health, Finance, etc., without manual tagging.
 
-Simply open the app and choose a category that fits your moment, whether you're in the mood to learn something new or relax with lighter content.
+- Tap a category to view all matching articles.
+- Categories are assigned at the time of saving and are available across platforms.
+
+> **Note:** Articles **imported from Pocket** will **not have auto-categories assigned initially**. You can still organize them manually using folders.
 
 > 📱 Available on **Android** and **iOS**.
 

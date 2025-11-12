@@ -25,10 +25,10 @@ Whether you're on your phone, desktop, or browser, PaperSpan helps you **save, o
 | Folders          | ✅              | ✅          | ✅          |
 | Text to Speech (TTS)              | ✅              | ✅          | -          |
 | Text to Speech (TTS) Playlist             | ✅              | ✅          | -          |
-| Automatic Categorization               | ✅              | ✅          | -     |
+| Automatic Categorization               | ✅              | ✅          | ✅      |
 | Highlights                        | ✅              | ✅          | ✅          |
 | Send to Kindle                        | ✅              | ✅          | -          |
-| Notes                             | ✅              | ✅          | -     |
+| Notes                             | ✅              | ✅          | ✅     |
 | Reading statistics                | ✅              | ✅          | -    |
 | Dark mode                         | ✅              | ✅          | -         |
 

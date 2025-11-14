@@ -12,7 +12,7 @@ You can save articles to PaperSpan from any desktop browser using either a **boo
 
 ## Use the Bookmarklet (Drag & Save)
 
-1. Log in to [PaperSpan.com](https://www.paperspan.com/login) on your desktop browser.
+1. Log in to [PaperSpan.com](https://web.paperspan.com/login) on your desktop browser.
 2. From the dashboard, you'll see a **“Read Later” bookmarklet**.
 3. **Drag** the “Read Later” button to your **browser's bookmarks bar**.
 

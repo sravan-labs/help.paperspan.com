@@ -29,7 +29,7 @@ Now, whenever you're reading an article you want to save:
 
 You can also add links manually from the desktop website:
 
-1. Log in to [PaperSpan.com](https://www.paperspan.com/login).
+1. Log in to [PaperSpan.com](https://web.paperspan.com/login).
 2. On the **Reading List** page, click the round **➕ Add** button at the bottom-right corner.
 3. Paste the URL of the article you want to save.
 4. Click **Add** — the article will be added to your list.

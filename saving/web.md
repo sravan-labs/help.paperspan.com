@@ -13,12 +13,12 @@ You can save articles to PaperSpan from any desktop browser using either a **boo
 ## Use the Bookmarklet (Drag & Save)
 
 1. Log in to [PaperSpan.com](https://web.paperspan.com/login) on your desktop browser.
-2. From the dashboard, you'll see a **“Read Later” bookmarklet**.
-3. **Drag** the “Read Later” button to your **browser's bookmarks bar**.
+2. Go to Settings (at bottom left) > Apps. You'll see a **“Save to PaperSpan” bookmarklet**.
+3. **Drag** the “Save to PaperSpan” bookmarklet button to your **browser's bookmarks bar**.
 
 Now, whenever you're reading an article you want to save:
 
-- Just **click the “Read Later” bookmarklet** in your bookmarks bar.
+- Just **click the “Save to PaperSpan” bookmarklet** in your bookmarks bar.
 - The article will be saved instantly to your reading list.
 
 > Works on all major browsers: Chrome, Firefox, Safari, and Edge (desktop only).
@@ -30,7 +30,7 @@ Now, whenever you're reading an article you want to save:
 You can also add links manually from the desktop website:
 
 1. Log in to [PaperSpan.com](https://web.paperspan.com/login).
-2. On the **Reading List** page, click the round **➕ Add** button at the bottom-right corner.
+2. On the **Reading List** page, click the **➕ Add** button at the top-right corner.
 3. Paste the URL of the article you want to save.
 4. Click **Add** — the article will be added to your list.
 
